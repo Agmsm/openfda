@@ -1,0 +1,5 @@
+Nombre:Alberto Guzmán Merino
+dni:02726025L
+Práctica básica
+Ampliaciones:I,II,III,IV
+Funcionalidad adicional:Botones con colores y accediendo a la url http://localhost:8000/another aparece otro botón que muestra el numero de autorizacion de los pacientes con un límite.
